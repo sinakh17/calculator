@@ -1,0 +1,55 @@
+.container {
+  width: 33%;
+  height: 500px;
+  background-color: aqua;
+  margin: auto;
+}
+.screen {
+  width: 100%;
+  height: 16%;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+.btnOperator {
+  width: 25%;
+  height: 16%;
+  font-size: 30px;
+}
+.numContainer {
+  width: 75%;
+  height: 100%;
+}
+.number {
+  width: 33.3%;
+  height: 25%;
+  font-size: 30px;
+}
+.point {
+  width: 33.3%;
+  height: 25%;
+  font-size: 30px;
+}
+.del {
+  width: 33.3%;
+  height: 25%;
+  font-size: 30px;
+}
+.allClear {
+  height: 75%;
+  font-size: 30px;
+}
+.equal {
+  height: 25%;
+  font-size: 30px;
+}
+.acNumContainer {
+  height: 68%;
+  display: flex;
+}
+.acEqContainer {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  height: 100%;
+}
